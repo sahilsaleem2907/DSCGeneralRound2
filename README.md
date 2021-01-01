@@ -4,6 +4,6 @@ Made for the DSC CCS 2020 Round 2
 # Images
 
 
-![Image3](/galaxy-s10-mockup (2).png)
+![Image3](galaxy-s10-mockup.png)
 
 
