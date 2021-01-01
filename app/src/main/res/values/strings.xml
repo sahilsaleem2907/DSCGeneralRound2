@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRCode</string>
+    <string name="save">Save this QR</string>
+    <string name="generate">Generate the QR</string>
+    <string name="enter_text">Enter Text to be converted to QR</string>
+    <string name="value_required">Value Required</string>
+</resources>
