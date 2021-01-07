@@ -1,5 +1,5 @@
 # QRCode
-Made for the DSC CCS 2020 Round 2 
+Simple create and save a QRcode
 
 # Images
 
